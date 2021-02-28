@@ -1,0 +1,8 @@
+Pour lancer le programme : 
+- Ouvrir le dossier sources
+- Lancer main.exe avec un environnement de développement (CodeBlocks par exemple)
+- Tapez 1 pour lancer le jeu, 2 pour afficher les règles et 3 pour modifier la taille de la matrice
+
+Pour voir le code :
+- Ouvrir "jeudelaviefini.cbp" avec un logiciel adéquat
+- Pour le lancer le compiler puis l'exécuter
