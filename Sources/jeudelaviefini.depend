@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1546882818 source:d:\projet info\jeudelaviefini\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1551658359 source:c:\users\mido1\desktop\l1_2017_2018_projet_s1_askar_benaissa_ripert\sources\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<sdl.h>
+
